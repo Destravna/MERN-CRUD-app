@@ -1,6 +1,6 @@
 [submodule "server"]
 	path = server
-	url = ./server
+	url =  https://github.com/Destravna/mern-crud-server
 [submodule "React"]
 	path = React
-	url = ./React
+	url = https://github.com/Destravna/mern-crud-frontend
