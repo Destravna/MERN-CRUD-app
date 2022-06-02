@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = ./server
+[submodule "React"]
+	path = React
+	url = ./React
